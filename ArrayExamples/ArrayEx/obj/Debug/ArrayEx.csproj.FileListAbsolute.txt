@@ -1,0 +1,7 @@
+C:\Sandbox\SingleDimensionalArrays\ArrayExamples\ArrayEx\obj\Debug\ArrayEx.csprojResolveAssemblyReference.cache
+C:\Sandbox\SingleDimensionalArrays\ArrayExamples\ArrayEx\obj\Debug\ArrayEx.csproj.CoreCompileInputs.cache
+C:\Sandbox\SingleDimensionalArrays\ArrayExamples\ArrayEx\bin\Debug\ArrayEx.exe.config
+C:\Sandbox\SingleDimensionalArrays\ArrayExamples\ArrayEx\bin\Debug\ArrayEx.exe
+C:\Sandbox\SingleDimensionalArrays\ArrayExamples\ArrayEx\bin\Debug\ArrayEx.pdb
+C:\Sandbox\SingleDimensionalArrays\ArrayExamples\ArrayEx\obj\Debug\ArrayEx.exe
+C:\Sandbox\SingleDimensionalArrays\ArrayExamples\ArrayEx\obj\Debug\ArrayEx.pdb

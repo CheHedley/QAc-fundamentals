@@ -1,0 +1,7 @@
+C:\Sandbox\Loops\LoopExercises\LoopsTasks\bin\Debug\LoopsTasks.exe.config
+C:\Sandbox\Loops\LoopExercises\LoopsTasks\bin\Debug\LoopsTasks.exe
+C:\Sandbox\Loops\LoopExercises\LoopsTasks\bin\Debug\LoopsTasks.pdb
+C:\Sandbox\Loops\LoopExercises\LoopsTasks\obj\Debug\LoopsTasks.csproj.CoreCompileInputs.cache
+C:\Sandbox\Loops\LoopExercises\LoopsTasks\obj\Debug\LoopsTasks.exe
+C:\Sandbox\Loops\LoopExercises\LoopsTasks\obj\Debug\LoopsTasks.pdb
+C:\Sandbox\Loops\LoopExercises\LoopsTasks\obj\Debug\LoopsTasks.csprojResolveAssemblyReference.cache

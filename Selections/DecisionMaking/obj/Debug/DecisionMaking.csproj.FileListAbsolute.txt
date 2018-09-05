@@ -1,0 +1,7 @@
+C:\Sandbox\Selections\DecisionMaking\bin\Debug\DecisionMaking.exe.config
+C:\Sandbox\Selections\DecisionMaking\bin\Debug\DecisionMaking.exe
+C:\Sandbox\Selections\DecisionMaking\bin\Debug\DecisionMaking.pdb
+C:\Sandbox\Selections\DecisionMaking\obj\Debug\DecisionMaking.csprojResolveAssemblyReference.cache
+C:\Sandbox\Selections\DecisionMaking\obj\Debug\DecisionMaking.csproj.CoreCompileInputs.cache
+C:\Sandbox\Selections\DecisionMaking\obj\Debug\DecisionMaking.exe
+C:\Sandbox\Selections\DecisionMaking\obj\Debug\DecisionMaking.pdb

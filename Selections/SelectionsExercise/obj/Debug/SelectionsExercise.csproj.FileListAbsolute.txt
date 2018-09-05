@@ -1,0 +1,7 @@
+C:\Sandbox\Selections\SelectionsExercise\bin\Debug\SelectionsExercise.exe.config
+C:\Sandbox\Selections\SelectionsExercise\bin\Debug\SelectionsExercise.exe
+C:\Sandbox\Selections\SelectionsExercise\bin\Debug\SelectionsExercise.pdb
+C:\Sandbox\Selections\SelectionsExercise\obj\Debug\SelectionsExercise.csprojResolveAssemblyReference.cache
+C:\Sandbox\Selections\SelectionsExercise\obj\Debug\SelectionsExercise.csproj.CoreCompileInputs.cache
+C:\Sandbox\Selections\SelectionsExercise\obj\Debug\SelectionsExercise.exe
+C:\Sandbox\Selections\SelectionsExercise\obj\Debug\SelectionsExercise.pdb

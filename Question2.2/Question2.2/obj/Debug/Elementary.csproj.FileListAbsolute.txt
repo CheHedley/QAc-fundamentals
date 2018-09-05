@@ -1,0 +1,6 @@
+C:\Sandbox\ElementaryProgramming\Question2.2\Question2.2\bin\Debug\Question2.2.exe.config
+C:\Sandbox\ElementaryProgramming\Question2.2\Question2.2\bin\Debug\Question2.2.exe
+C:\Sandbox\ElementaryProgramming\Question2.2\Question2.2\bin\Debug\Question2.2.pdb
+C:\Sandbox\ElementaryProgramming\Question2.2\Question2.2\obj\Debug\Elementary.csproj.CoreCompileInputs.cache
+C:\Sandbox\ElementaryProgramming\Question2.2\Question2.2\obj\Debug\Question2.2.exe
+C:\Sandbox\ElementaryProgramming\Question2.2\Question2.2\obj\Debug\Question2.2.pdb

@@ -1,0 +1,7 @@
+C:\Sandbox\OOTutorialSimpleClasses\OOTutorialSimpleClasses\bin\Debug\OOTutorialSimpleClasses.exe.config
+C:\Sandbox\OOTutorialSimpleClasses\OOTutorialSimpleClasses\bin\Debug\OOTutorialSimpleClasses.exe
+C:\Sandbox\OOTutorialSimpleClasses\OOTutorialSimpleClasses\bin\Debug\OOTutorialSimpleClasses.pdb
+C:\Sandbox\OOTutorialSimpleClasses\OOTutorialSimpleClasses\obj\Debug\OOTutorialSimpleClasses.csproj.CoreCompileInputs.cache
+C:\Sandbox\OOTutorialSimpleClasses\OOTutorialSimpleClasses\obj\Debug\OOTutorialSimpleClasses.exe
+C:\Sandbox\OOTutorialSimpleClasses\OOTutorialSimpleClasses\obj\Debug\OOTutorialSimpleClasses.pdb
+C:\Sandbox\OOTutorialSimpleClasses\OOTutorialSimpleClasses\obj\Debug\OOTutorialSimpleClasses.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Sandbox\Methods\LearnMethods\LearnMethods\bin\Debug\LearnMethods.exe.config
+C:\Sandbox\Methods\LearnMethods\LearnMethods\bin\Debug\LearnMethods.exe
+C:\Sandbox\Methods\LearnMethods\LearnMethods\bin\Debug\LearnMethods.pdb
+C:\Sandbox\Methods\LearnMethods\LearnMethods\obj\Debug\LearnMethods.csprojResolveAssemblyReference.cache
+C:\Sandbox\Methods\LearnMethods\LearnMethods\obj\Debug\LearnMethods.csproj.CoreCompileInputs.cache
+C:\Sandbox\Methods\LearnMethods\LearnMethods\obj\Debug\LearnMethods.exe
+C:\Sandbox\Methods\LearnMethods\LearnMethods\obj\Debug\LearnMethods.pdb

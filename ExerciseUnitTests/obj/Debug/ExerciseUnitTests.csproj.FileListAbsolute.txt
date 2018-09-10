@@ -1,0 +1,17 @@
+C:\Sandbox\Tests\ExerciseUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Sandbox\Tests\ExerciseUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Sandbox\Tests\ExerciseUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Sandbox\Tests\ExerciseUnitTests\bin\Debug\ExerciseUnitTests.dll
+C:\Sandbox\Tests\ExerciseUnitTests\bin\Debug\ExerciseUnitTests.pdb
+C:\Sandbox\Tests\ExerciseUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Sandbox\Tests\ExerciseUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Sandbox\Tests\ExerciseUnitTests\bin\Debug\SimpleCalculator.exe
+C:\Sandbox\Tests\ExerciseUnitTests\bin\Debug\SimpleCalculator.pdb
+C:\Sandbox\Tests\ExerciseUnitTests\bin\Debug\SimpleCalculator.exe.config
+C:\Sandbox\Tests\ExerciseUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Sandbox\Tests\ExerciseUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Sandbox\Tests\ExerciseUnitTests\obj\Debug\ExerciseUnitTests.csprojResolveAssemblyReference.cache
+C:\Sandbox\Tests\ExerciseUnitTests\obj\Debug\ExerciseUnitTests.csproj.CoreCompileInputs.cache
+C:\Sandbox\Tests\ExerciseUnitTests\obj\Debug\ExerciseUnitTests.csproj.CopyComplete
+C:\Sandbox\Tests\ExerciseUnitTests\obj\Debug\ExerciseUnitTests.dll
+C:\Sandbox\Tests\ExerciseUnitTests\obj\Debug\ExerciseUnitTests.pdb

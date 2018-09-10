@@ -1,0 +1,7 @@
+C:\Sandbox\OOThinkingTutorial\OOThinkingTutorial\bin\Debug\OOThinkingTutorial.exe.config
+C:\Sandbox\OOThinkingTutorial\OOThinkingTutorial\bin\Debug\OOThinkingTutorial.exe
+C:\Sandbox\OOThinkingTutorial\OOThinkingTutorial\bin\Debug\OOThinkingTutorial.pdb
+C:\Sandbox\OOThinkingTutorial\OOThinkingTutorial\obj\Debug\OOThinkingTutorial.csprojResolveAssemblyReference.cache
+C:\Sandbox\OOThinkingTutorial\OOThinkingTutorial\obj\Debug\OOThinkingTutorial.csproj.CoreCompileInputs.cache
+C:\Sandbox\OOThinkingTutorial\OOThinkingTutorial\obj\Debug\OOThinkingTutorial.exe
+C:\Sandbox\OOThinkingTutorial\OOThinkingTutorial\obj\Debug\OOThinkingTutorial.pdb

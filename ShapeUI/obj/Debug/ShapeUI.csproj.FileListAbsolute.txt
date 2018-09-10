@@ -1,0 +1,10 @@
+C:\Sandbox\ShapeUI\ShapeUI\bin\Debug\ShapeUI.exe.config
+C:\Sandbox\ShapeUI\ShapeUI\bin\Debug\ShapeUI.exe
+C:\Sandbox\ShapeUI\ShapeUI\bin\Debug\ShapeUI.pdb
+C:\Sandbox\ShapeUI\ShapeUI\obj\Debug\ShapeUI.csprojResolveAssemblyReference.cache
+C:\Sandbox\ShapeUI\ShapeUI\obj\Debug\ShapeUI.ShapeForm.resources
+C:\Sandbox\ShapeUI\ShapeUI\obj\Debug\ShapeUI.Properties.Resources.resources
+C:\Sandbox\ShapeUI\ShapeUI\obj\Debug\ShapeUI.csproj.GenerateResource.cache
+C:\Sandbox\ShapeUI\ShapeUI\obj\Debug\ShapeUI.csproj.CoreCompileInputs.cache
+C:\Sandbox\ShapeUI\ShapeUI\obj\Debug\ShapeUI.exe
+C:\Sandbox\ShapeUI\ShapeUI\obj\Debug\ShapeUI.pdb

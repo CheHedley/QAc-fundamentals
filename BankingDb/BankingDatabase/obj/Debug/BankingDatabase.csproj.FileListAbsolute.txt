@@ -1,0 +1,5 @@
+C:\Sandbox\BankingDb\BankingDatabase\bin\Debug\BankingDatabase.dll
+C:\Sandbox\BankingDb\BankingDatabase\bin\Debug\BankingDatabase.pdb
+C:\Sandbox\BankingDb\BankingDatabase\obj\Debug\BankingDatabase.csproj.CoreCompileInputs.cache
+C:\Sandbox\BankingDb\BankingDatabase\obj\Debug\BankingDatabase.dll
+C:\Sandbox\BankingDb\BankingDatabase\obj\Debug\BankingDatabase.pdb

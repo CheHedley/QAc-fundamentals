@@ -1,0 +1,13 @@
+C:\Sandbox\BankingUI\BankingUserInterface\obj\Debug\BankingUserInterface.csprojResolveAssemblyReference.cache
+C:\Sandbox\BankingUI\BankingUserInterface\obj\Debug\BankingUserInterface.Banking.resources
+C:\Sandbox\BankingUI\BankingUserInterface\obj\Debug\BankingUserInterface.Properties.Resources.resources
+C:\Sandbox\BankingUI\BankingUserInterface\obj\Debug\BankingUserInterface.csproj.GenerateResource.cache
+C:\Sandbox\BankingUI\BankingUserInterface\obj\Debug\BankingUserInterface.csproj.CoreCompileInputs.cache
+C:\Sandbox\BankingUI\BankingUserInterface\bin\Debug\BankingUserInterface.exe.config
+C:\Sandbox\BankingUI\BankingUserInterface\bin\Debug\BankingUserInterface.exe
+C:\Sandbox\BankingUI\BankingUserInterface\bin\Debug\BankingUserInterface.pdb
+C:\Sandbox\BankingUI\BankingUserInterface\bin\Debug\BankingLib.dll
+C:\Sandbox\BankingUI\BankingUserInterface\bin\Debug\BankingLib.pdb
+C:\Sandbox\BankingUI\BankingUserInterface\obj\Debug\BankingUserInterface.csproj.CopyComplete
+C:\Sandbox\BankingUI\BankingUserInterface\obj\Debug\BankingUserInterface.exe
+C:\Sandbox\BankingUI\BankingUserInterface\obj\Debug\BankingUserInterface.pdb

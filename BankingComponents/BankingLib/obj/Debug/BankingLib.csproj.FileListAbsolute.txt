@@ -1,0 +1,9 @@
+C:\Sandbox\BankingComponents\BankingLib\bin\Debug\BankingLib.dll
+C:\Sandbox\BankingComponents\BankingLib\bin\Debug\BankingLib.pdb
+C:\Sandbox\BankingComponents\BankingLib\bin\Debug\BankingDatabase.dll
+C:\Sandbox\BankingComponents\BankingLib\bin\Debug\BankingDatabase.pdb
+C:\Sandbox\BankingComponents\BankingLib\obj\Debug\BankingLib.csprojResolveAssemblyReference.cache
+C:\Sandbox\BankingComponents\BankingLib\obj\Debug\BankingLib.csproj.CoreCompileInputs.cache
+C:\Sandbox\BankingComponents\BankingLib\obj\Debug\BankingLib.csproj.CopyComplete
+C:\Sandbox\BankingComponents\BankingLib\obj\Debug\BankingLib.dll
+C:\Sandbox\BankingComponents\BankingLib\obj\Debug\BankingLib.pdb

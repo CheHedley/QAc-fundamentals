@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Songs", "Songs\Songs.csproj", "{96383499-5B6D-4D75-8B53-0CC0EE085955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{7B1799DF-AF2D-4DBB-A80C-8427E4479E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96383499-5B6D-4D75-8B53-0CC0EE085955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96383499-5B6D-4D75-8B53-0CC0EE085955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96383499-5B6D-4D75-8B53-0CC0EE085955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96383499-5B6D-4D75-8B53-0CC0EE085955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B1799DF-AF2D-4DBB-A80C-8427E4479E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1799DF-AF2D-4DBB-A80C-8427E4479E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1799DF-AF2D-4DBB-A80C-8427E4479E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1799DF-AF2D-4DBB-A80C-8427E4479E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62F71D82-A172-4764-BC47-D619526A01C8}
+	EndGlobalSection
+EndGlobal

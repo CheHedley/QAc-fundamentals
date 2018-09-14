@@ -1,0 +1,7 @@
+C:\Sandbox\SongsAssignment\Songs\Songs\bin\Debug\Songs.exe.config
+C:\Sandbox\SongsAssignment\Songs\Songs\bin\Debug\Songs.exe
+C:\Sandbox\SongsAssignment\Songs\Songs\bin\Debug\Songs.pdb
+C:\Sandbox\SongsAssignment\Songs\Songs\obj\Debug\Songs.csprojResolveAssemblyReference.cache
+C:\Sandbox\SongsAssignment\Songs\Songs\obj\Debug\Songs.csproj.CoreCompileInputs.cache
+C:\Sandbox\SongsAssignment\Songs\Songs\obj\Debug\Songs.exe
+C:\Sandbox\SongsAssignment\Songs\Songs\obj\Debug\Songs.pdb

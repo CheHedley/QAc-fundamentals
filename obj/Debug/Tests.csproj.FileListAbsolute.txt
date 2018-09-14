@@ -1,0 +1,17 @@
+C:\Sandbox\SongsAssignment\Songs\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Sandbox\SongsAssignment\Songs\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Sandbox\SongsAssignment\Songs\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Sandbox\SongsAssignment\Songs\Tests\bin\Debug\Tests.dll
+C:\Sandbox\SongsAssignment\Songs\Tests\bin\Debug\Tests.pdb
+C:\Sandbox\SongsAssignment\Songs\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Sandbox\SongsAssignment\Songs\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Sandbox\SongsAssignment\Songs\Tests\bin\Debug\Songs.exe
+C:\Sandbox\SongsAssignment\Songs\Tests\bin\Debug\Songs.pdb
+C:\Sandbox\SongsAssignment\Songs\Tests\bin\Debug\Songs.exe.config
+C:\Sandbox\SongsAssignment\Songs\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Sandbox\SongsAssignment\Songs\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Sandbox\SongsAssignment\Songs\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Sandbox\SongsAssignment\Songs\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Sandbox\SongsAssignment\Songs\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Sandbox\SongsAssignment\Songs\Tests\obj\Debug\Tests.dll
+C:\Sandbox\SongsAssignment\Songs\Tests\obj\Debug\Tests.pdb
